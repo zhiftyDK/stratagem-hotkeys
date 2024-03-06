@@ -1,0 +1,56 @@
+Resupply
+SOS Beacon
+Reinforce
+Hellbomb
+SSSD Delivery
+Upload Data
+Eagle Rearm
+Seismic Probe
+Orbital Illumination Flare
+AX/LAS-5 "Guard Dog" Rover
+AX/AR-23 "Guard Dog"
+LIFT-850 Jump Pack
+B-1 Supply Pack
+SH-32 Shield Generator Pack
+SH-20 Ballistic Shield Backpack
+AC-8 Autocannon
+EAT-17 Expendable Anti-tank
+FLAM-40 Flamethrower
+LAS-98 Laser Cannon
+M-105 Stalwart
+MG-43 Machine Gun
+ARC-3 Arc Thrower
+GL-21 Grenade Launcher
+APW-1 Anti-Materiel Rifle
+RS-422 Railgun
+GR-8 Recoilless Rifle
+FAF-14 SPEAR Launcher
+A/ARC-3 Tesla Tower
+A/M-12 Mortar Sentry
+A/M-23 EMS Mortar Sentry
+A/MG-43 Machine Gun Sentry
+A/G-16 Gatling Sentry
+MD-6 Anti-Personnel Minefield
+MD-I4 Incendiary Mines
+FX-12 Shield Generator Relay
+E/MG-101 HMG Emplacement
+A/AC-8 Autocannon Sentry
+A/MLS-4X Rocket Sentry
+Orbital Precision Strike
+rbital Airbust Strike
+Orbital 120MM HE Barrage
+Orbital 380MM HE Barrage
+Orbital Walking Barrage
+Orbital Laser
+Orbital Railcannon Strike
+Orbital Gatling Barrage
+Orbital Gas Strike
+Orbital EMS Strike
+Orbital Smoke Strike
+Eagle Strafing Run
+Eagle Airstrike
+Eagle Cluster Bomb
+Eagle Napalm Strike
+Eagle Smoke Strike
+Eagle 110MM Rocket Pods
+Eagle 500kg Bomb
