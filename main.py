@@ -1,10 +1,8 @@
 import keyboard
 import pyautogui
-import pytesseract
 import requests
 import difflib
 import json
-import os
 
 stratagemKeybind = "CTRL"
 ocr_api_key = "K88953223088957"
